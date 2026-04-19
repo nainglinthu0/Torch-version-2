@@ -1,0 +1,134 @@
+﻿factory_name,article_count,latest_article,prevalence_child_labour,prevalence_forced_labour,prevalence_discrimination,prevalence_freedom_of_association,prevalence_working_hours,prevalence_compensation,prevalence_osh,prevalence_contracts,name_lower,os_id,name,address,lat,lng,number_of_workers,is_closed,raw_score,confidence,composite_score,risk_band,rank
+Lita Myanmar,10,31/08/2024,1.0,1.0,0.9,1.0,1.0,1.0,1.0,1.0,lita myanmar,,,,,,,,0.9875,0.7057,0.6969,High,1
+Bohua Fashion,5,30/11/2023,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,bohua fashion,,,,,,,,1.0,0.6418,0.6418,High,2
+Myanmar Guotai Huasheng Glory Fashion,3,28/12/2023,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,myanmar guotai huasheng glory fashion,,,,,,,,0.9375,0.5809,0.5446,High,3
+Myanmar LNY Caps,4,30/06/2025,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,myanmar lny caps,,,,,,,,0.875,0.6168,0.5397,High,4
+Tianjin Fashion Milestone,12,30/01/2026,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,tianjin fashion milestone,,,,,,,,0.75,0.7195,0.5396,High,5
+Wonderful Apparel,6,23/10/2023,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,wonderful apparel,,,,,,,,0.8125,0.6605,0.5367,High,6
+Sunrise Myanmar,6,30/01/2026,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,sunrise myanmar,,,,,,,,0.8125,0.6605,0.5367,High,7
+J-Land Myanmar,3,19/07/2024,1.0,0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,1.0,1.0,j-land myanmar,,,,,,,,0.8958,0.5809,0.5204,High,8
+Eternal Fashion,6,30/01/2026,0.0,1.0,1.0,1.0,1.0,0.8333333333333334,1.0,0.0,eternal fashion,,,,,,,,0.7396,0.6605,0.4885,Medium,9
+E&P Fashion,3,25/10/2023,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,e&p fashion,,,,,,,,0.8125,0.5809,0.472,Medium,10
+Myanmar Allin Co Ltd,30,31/12/2025,0.1666666666666666,0.6333333333333333,0.7333333333333333,0.5333333333333333,1.0,0.9,0.8,0.2,myanmar allin co ltd,MM2019083HYCAPC,Myanmar Allin Co Ltd,"Plot No.95, 96/Ka, Myay Taing Block No.14, Mingyi Mahar Mingaung Street, Shwe Than Lwin Industrial Zone, Hlaingtharya Township, Yangon region, Myanmar",16.86832,96.0423,,False,0.6021,0.7745,0.4663,Medium,11
+Feng Teng Garment,3,31/12/2024,1.0,1.0,1.0,0.0,1.0,1.0,0.3333333333333333,1.0,feng teng garment,,,,,,,,0.7917,0.5809,0.4599,Medium,12
+He MeT,2,19/07/2025,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,he met,,,,,,,,0.875,0.5235,0.4581,Medium,13
+Alland Fashion,2,20/05/2025,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.5,alland fashion,,,,,,,,0.8438,0.5235,0.4417,Medium,14
+New Plus,8,27/12/2025,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,new plus,,,,,,,,0.625,0.6872,0.4295,Medium,15
+Mengyue Garment,2,09/11/2025,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,mengyue garment,,,,,,,,0.8125,0.5235,0.4253,Medium,16
+Dongxin Garment,2,22/05/2025,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,dongxin garment,,,,,,,,0.8125,0.5235,0.4253,Medium,17
+Huafu Garment,1,18/07/2024,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,huafu garment,,,,,,,,1.0,0.4094,0.4094,Medium,18
+KBL Garment,2,29/02/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,kbl garment,,,,,,,,0.7812,0.5235,0.409,Medium,19
+Hope One,3,25/09/2025,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,hope one,,,,,,,,0.6875,0.5809,0.3994,Medium,20
+Yuan Hong Garment Company Limited,4,24/02/2026,0.0,0.75,1.0,0.25,1.0,0.75,1.0,0.75,yuan hong garment company limited,MM2025087XK4SWV,Yuan Hong Garment Company Limited,"Plot No (94+95), Block No (25), Shwe Lin Ban Industrial Zone, Hlaing Tharyar Township, Yangon.",16.914015,96.0652719,,False,0.6406,0.6168,0.3951,Medium,21
+Myanto Industrial,4,27/12/2025,0.0,0.75,1.0,0.0,1.0,1.0,1.0,1.0,myanto industrial,,,,,,,,0.6406,0.6168,0.3951,Medium,22
+Myanmar Qi Yuan,2,17/11/2024,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,myanmar qi yuan,,,,,,,,0.75,0.5235,0.3926,Medium,23
+Sewell Garment Myanmar,2,09/02/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,sewell garment myanmar,,,,,,,,0.75,0.5235,0.3926,Medium,24
+Myanmar Zande,2,27/12/2025,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,myanmar zande,,,,,,,,0.75,0.5235,0.3926,Medium,25
+GNS (Bago) Healthcare,1,14/11/2023,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,gns (bago) healthcare,,,,,,,,0.9375,0.4094,0.3838,Medium,26
+Universal Apparel,1,23/04/2025,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,universal apparel,,,,,,,,0.9375,0.4094,0.3838,Medium,27
+Myanmar Bag,3,07/11/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.3333333333333333,myanmar bag,,,,,,,,0.6458,0.5809,0.3751,Medium,28
+Prettex Myanmar,4,18/04/2025,0.0,1.0,0.75,0.0,1.0,0.0,1.0,1.0,prettex myanmar,,,,,,,,0.5938,0.6168,0.3663,Medium,29
+MYANMAR BESTEX GARMENT CO. LTD,3,05/08/2023,0.0,1.0,0.6666666666666666,0.3333333333333333,1.0,1.0,1.0,0.0,myanmar bestex garment co. ltd,MM20210260CJRKG,MYANMAR BESTEX GARMENT CO. LTD,"POLT NO.117,MYAY TAING BLOCK NO.14,SHWE THANLWIN INSDUSTRIAL ZONE,HLAING THAR YAR TOWNSHIP,YANGON, 122730166, ANGON, ",16.86344,96.04984,468,False,0.625,0.5809,0.3631,Medium,30
+Ford Glory (Myanmar) Limited,3,20/09/2023,0.0,1.0,0.3333333333333333,0.6666666666666666,1.0,1.0,1.0,0.0,ford glory (myanmar) limited,MM20202302XNNHX,Ford Glory (Myanmar) Limited,No 42/132 Sathmu 7Th Street Shwe Pyi Thar Zone (1) Shwe Pyi Thar Township Yangon ,16.9519142,96.093737,,False,0.625,0.5809,0.3631,Medium,31
+Hong Miao Garment,3,28/09/2023,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,hong miao garment,,,,,,,,0.625,0.5809,0.3631,Medium,32
+Sudey Industrial Myanmar,2,11/08/2023,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,sudey industrial myanmar,,,,,,,,0.6875,0.5235,0.3599,Medium,33
+Lat War Garment,2,29/02/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,lat war garment,MM2024022KM44ZM,LAT WAR GARMENT,"No.B-73,Min Thatedi Kyaw Swar Street, Hlaing Tharyar Industrial Zone (3)",16.8819286,96.0573302,,False,0.6875,0.5235,0.3599,Medium,34
+Myanmar Jiale Fashion Garment,1,19/10/2024,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,myanmar jiale fashion garment,,,,,,,,0.875,0.4094,0.3582,Medium,35
+JOC Myanmar Garment,1,11/06/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,joc myanmar garment,,,,,,,,0.875,0.4094,0.3582,Medium,36
+"Myanmar Dixinda Garment Co., Ltd",1,28/02/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,"myanmar dixinda garment co., ltd",MM20250871ZT4S9,"Myanmar Dixinda Garment Co., Ltd","Unit 8, Plot No.E2, E3, E6, E7, E8, E9, E10, Myay Taing Block No.20, Anawrahta Industrial Zone, Hlaing Tharyar Tsp, Yangon",16.8819286,96.0573302,,False,0.875,0.4094,0.3582,Medium,37
+"Dishang Kenny (Myanmar) Garment Co., Ltd",1,29/02/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,"dishang kenny (myanmar) garment co., ltd",MM2020281B5FJ1V,"Dishang Kenny (Myanmar) Garment Co., Ltd","Plot No.95-96 (Ka), Myay Taing Block No (14), Min Gyi Mahar Min Gaung Street, Shwe Than Lwin Industrial Zone, Hlaingtharya Township, Yangon Region",16.86808,96.04274,,False,0.875,0.4094,0.3582,Medium,38
+Star Sandar Garment,1,07/11/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,star sandar garment,,,,,,,,0.875,0.4094,0.3582,Medium,39
+Site 2 Yangon Factory,1,08/12/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,site 2 yangon factory,MM2023159HV52NR,Site 2 Yangon Factory,"No. 44 , Mya Street, Thar Du Kan Industrial Zone, Shwe Pyi Thar Township, Yangon, Yangon",16.9753379,96.0785104,,False,0.875,0.4094,0.3582,Medium,40
+Top Class,1,08/11/2023,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,top class,,,,,,,,0.875,0.4094,0.3582,Medium,41
+Myanmar Tiannan Garment,1,21/11/2023,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,myanmar tiannan garment,,,,,,,,0.875,0.4094,0.3582,Medium,42
+S.M Myanmar Garment,1,22/09/2023,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,s.m myanmar garment,,,,,,,,0.875,0.4094,0.3582,Medium,43
+Kfine International Garment (Myanmar) Company Limited,3,14/10/2023,0.3333333333333333,1.0,0.6666666666666666,0.0,1.0,1.0,0.6666666666666666,0.0,kfine international garment (myanmar) company limited,MM2021299RGF5T9,Kfine International Garment (Myanmar) Company Limited,"East A Wine Village Group, Oo Paing No (1/1. Ka). Kwin/ Akwat And Name. 652 Ga, Bago Town-, Bago, Bago, ",17.3858397,96.4967723,1001-5000|1001-5000,False,0.6042,0.5809,0.351,Medium,44
+Hanfex Garment,2,24/02/2026,0.0,1.0,1.0,0.0,1.0,0.5,1.0,1.0,hanfex garment,,,,,,,,0.6562,0.5235,0.3435,Medium,45
+Rainbowtec Myanmar,1,29/02/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,rainbowtec myanmar,,,,,,,,0.8125,0.4094,0.3326,Medium,46
+Hige Fashion Accessories (Myanmar),1,05/02/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,hige fashion accessories (myanmar),,,,,,,,0.8125,0.4094,0.3326,Medium,47
+Heng Li Garment,1,08/08/2024,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,heng li garment,,,,,,,,0.8125,0.4094,0.3326,Medium,48
+Karisma Apparel (Myanmar) Company Limited,1,17/11/2023,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,karisma apparel (myanmar) company limited,MM2019107MJ7QM6,Karisma Apparel (Myanmar) Company Limited,"Plot No.18,19,20, Near Yangon-Mandalay Main Road, Nyaung Inn Village, Bago Industrial Complex (Foreign Industrial Zone), Bago Region, Myanmar",17.2549229,96.4553415,1406,False,0.8125,0.4094,0.3326,Medium,49
+Dishang Fashion (Myanmar) Co Ltd ,7,31/07/2025,0.0,0.2857142857142857,0.5714285714285714,0.5714285714285714,1.0,1.0,0.7142857142857143,0.2857142857142857,dishang fashion (myanmar) co ltd,MM2022145VCQGG8,Dishang Fashion (Myanmar) Co Ltd ,"Plot No.96 (Kha), Myay Taing Block No.14, Mingyi Mahar Mingaung street, Shwe Than Lwin Industrial Zone, Hlaingtharya Township, Yangon",16.86808,96.04274,1-1000|1-1000|1155|1-999,False,0.4911,0.6753,0.3316,Medium,50
+LZS Apparel,2,30/01/2026,0.5,0.5,1.0,0.0,1.0,1.0,1.0,0.0,lzs apparel,,,,,,,,0.625,0.5235,0.3272,Medium,51
+Lon John International,2,30/11/2023,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,lon john international,,,,,,,,0.625,0.5235,0.3272,Medium,52
+Synergy Garment,2,28/02/2024,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,synergy garment,,,,,,,,0.625,0.5235,0.3272,Medium,53
+Kingsrich Myanmar Fashion Company Limited,3,27/06/2024,0.0,0.3333333333333333,0.6666666666666666,0.6666666666666666,1.0,1.0,1.0,0.0,kingsrich myanmar fashion company limited,MM2019107F9Z67J,Kingsrich Myanmar Fashion Company Limited,"Plot No.1,2,3, Myay Taing Block No.39 (Sethmu), Yay Pyar Street, Shwepyitha Industrial Zone, Shwe Pyi Tha Township, Yangon Region, Myanmar",16.9436675245285,96.0694383395892,2001-2500|2001-2500|1501-2000|1501-2000|1501-2000|1001-2000|1001-2000|1001-2000|1001-2000|1001-2000|1001-2000|1001-2000|1001-2000,False,0.5417,0.5809,0.3147,Medium,54
+Hang Kei Myanmar,2,18/03/2025,0.0,0.5,1.0,0.5,1.0,1.0,1.0,0.0,hang kei myanmar,,,,,,,,0.5938,0.5235,0.3109,Medium,55
+"MYANMAR BESTFORTUNE GARMENT CO.,LTD",2,25/12/2025,0.0,1.0,0.5,0.5,1.0,1.0,0.5,0.5,"myanmar bestfortune garment co.,ltd",MM20240537G470C,"MYANMAR BESTFORTUNE GARMENT CO.,LTD","PLOT NO.29, MYAY TAING BLOCK NO.51, THAR DU KAN INDUSTRIAL ZONE,SHWE PYI THAR TOWNSHIP,11411,Yangon,Myanmar",16.9441383,96.083571,,False,0.5938,0.5235,0.3109,Medium,56
+Handa (Yangon) Garment CoLtd,2,20/05/2025,0.0,1.0,1.0,0.0,1.0,1.0,0.5,0.5,handa (yangon) garment coltd,MM2019083FFBXWK,Handa (Yangon) Garment CoLtd,Plot No. 288 Myay Taing Block No 25 Shwe Lin Pan Industrial Zone Hlaing Thar Yar Township Yangon,16.9190473,96.0738296,881|881,False,0.5938,0.5235,0.3109,Medium,57
+"Myanmar Yangon Richang Apparel Co., Ltd (NISHO)",2,24/02/2026,0.0,0.5,1.0,0.5,1.0,0.5,1.0,0.5,"myanmar yangon richang apparel co., ltd (nisho)",MM2025087T4TXPX,"Myanmar Yangon Richang Apparel Co., Ltd (NISHO)","230, U Yin Baw Street, Shwe Lin Ban Industrial Zone, Hlaingtharya, Yangon",16.914015,96.0652719,,False,0.5938,0.5235,0.3109,Medium,58
+Suntime JCK Co.,1,04/04/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,suntime jck co.,,,,,,,,0.75,0.4094,0.307,Medium,59
+"Myanmar Nyunt Co., Ltd",1,07/05/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,"myanmar nyunt co., ltd",MM2025087Z85211,"Myanmar Nyunt Co., Ltd","106/108, 93th St, Kan Daw Kalay (east), Mingalar Taungnyunt, Yangon",16.7874914,96.1712596,,False,0.75,0.4094,0.307,Medium,60
+"Maha Yadana Manaung Co., Ltd",1,08/08/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,"maha yadana manaung co., ltd",MM2025087C4M12S,"Maha Yadana Manaung Co., Ltd","15, 3rd Floor, Nawady Street, Fantastic Condo, Yaw Min Gyi Ward, Dagon, Yangon",16.7836508,96.1555178,,False,0.75,0.4094,0.307,Medium,61
+Yangon Panatex Apparel Company Limited.,1,01/10/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,yangon panatex apparel company limited.,MM2025087FVENJH,Yangon Panatex Apparel Company Limited.,"Land No (4), Thardukan Road, Survey Block Nga/12, Thar Du Kan Industrial Zone, Shwe Pyi Thar Township, Yangon.",16.9845706,96.0922922,,False,0.75,0.4094,0.307,Medium,62
+"Myanmar Makro Industry Co., Ltd",1,25/12/2025,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,"myanmar makro industry co., ltd",MM2025087HXKTV8,"Myanmar Makro Industry Co., Ltd","No.82, Myamarlar Street, Industrial Zone, Tharketa Township, Yangon., Tharketa, Yangon",16.8080032,96.1979734,,False,0.75,0.4094,0.307,Medium,63
+Yangon Wan Ping Garment,1,10/01/2026,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,yangon wan ping garment,MM2024022E1E48F,Yangon Wan Ping Garment,"Land No. (44 and 45), Land Survey Area Ward, Myaungtakar Steel Industry Zone, Hmawbi Township, Yangon Region",17.1533377,96.0255738,1501-2000|2001-4000|1001-2000|2001-4000|1001-2000|1001-1500|1001-1500|1501-2000|1501-2000|2001-4000|2001-4000|2001-4000|2001-4000,False,0.75,0.4094,0.307,Medium,64
+"MYANMAR LUCKY PHOENIX INTERNATIONAL CO., LTD.",1,04/01/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,"myanmar lucky phoenix international co., ltd.",MM20210267N9RNS,"MYANMAR LUCKY PHOENIX INTERNATIONAL CO., LTD.","Plot No.144,145, Myay Taing Block No.64, Pyin Si Minthar Gyi Street, Shwepyithar Industrial Zone (3), Shwepyithar Township, Yangon Region, Myanmar",16.937840868905,96.0933585467945,560|560,False,0.75,0.4094,0.307,Medium,65
+Bofei Garment,1,09/02/2024,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,bofei garment,,,,,,,,0.75,0.4094,0.307,Medium,66
+Tristate Myanmar,2,28/08/2023,0.0,1.0,0.5,0.0,1.0,1.0,1.0,0.0,tristate myanmar,,,,,,,,0.5625,0.5235,0.2945,Low,67
+Myanmar York,2,20/10/2024,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,myanmar york,,,,,,,,0.5625,0.5235,0.2945,Low,68
+Golden Colour Fashion,6,20/10/2024,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,golden colour fashion,,,,,,,,0.4375,0.6605,0.289,Low,69
+"HENGDA(MYANMAR) APPAREL CO., LTD.",1,17/08/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,"hengda(myanmar) apparel co., ltd.",MM2020084373A45,"HENGDA(MYANMAR) APPAREL CO., LTD.","Plot No.15/1, 16/1, Myay Taing Block No.577, No.4-Main Road, (Lower Mingaladon Road), Inn Lyat Kyauk Pone, Inn Lyat village Tract, Hmawbi Township, Yangon Region",17.0858999,96.0572973,501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000,False,0.6875,0.4094,0.2815,Low,70
+Enjoy Fashion Co.Ltd,1,15/05/2025,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,enjoy fashion co.ltd,MM2025087K3K623,Enjoy Fashion Co.Ltd,"Plot No.101, Myay Taing Block No.14, Shwe Than Lwin, Hlaing Tharyar Tsp. Yangon.",16.8819286,96.0573302,,False,0.6875,0.4094,0.2815,Low,71
+Hunter Textile,1,20/04/2025,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,hunter textile,,,,,,,,0.6875,0.4094,0.2815,Low,72
+Myanmar Shin Won Garment,1,02/10/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,myanmar shin won garment,,,,,,,,0.6875,0.4094,0.2815,Low,73
+Asdet Garment,1,10/02/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,asdet garment,,,,,,,,0.6875,0.4094,0.2815,Low,74
+MYANMAR GIGI LEATHER GOODS,2,21/12/2024,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,myanmar gigi leather goods,MM20230316D0RN5,MYANMAR GIGI LEATHER GOODS,"PLOT 96   BLOCK 51   THAR DU KA,THAR DU KAN INDUSTRIAL ZONE",18.5131206,96.4663286,1001-5000|1001-5000|1001-5000|1001-5000|1001-5000|1001-5000,False,0.5,0.5235,0.2618,Low,75
+Jiashihao Myanmar Company Limited,2,22/03/2024,0.0,0.5,0.5,0.0,1.0,1.0,1.0,0.5,jiashihao myanmar company limited,MM20203640BGYKQ,Jiashihao Myanmar Company Limited,"Plot No.77-A, Kha Yay Street, Ward (42), Shwepyithar Industrial Zone (1), Shwepyithar Township, Yangon Region, Myanmar",16.94595,96.09807,1659|998|1775,False,0.5,0.5235,0.2618,Low,76
+"Honda Myanmar Co., Ltd",1,20/04/2025,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,"honda myanmar co., ltd",MM202508736P3D1,"Honda Myanmar Co., Ltd","31 St, Bet 77x78 St, Yuzana (1+2), Kitsanamahi Quarter, Chan Aye Thar Zan T/s, Mandalay, Myanmar., Chan Aye Thar Zan, Mandalay",21.973015,96.0759242,,False,0.625,0.4094,0.2559,Low,77
+Shi An (Myanmar),1,09/02/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,shi an (myanmar),,,,,,,,0.625,0.4094,0.2559,Low,78
+Takashima Sports,1,14/11/2023,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,takashima sports,,,,,,,,0.625,0.4094,0.2559,Low,79
+"Sen Hui Yuan International Trading Co., Ltd",1,04/04/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,"sen hui yuan international trading co., ltd",MM2025087N4DKJX,"Sen Hui Yuan International Trading Co., Ltd","Holding No.570, Kyaik Kha Mee Road, Mawlamyine T/S, Mon State, Mawlamyine, Mon",16.0949258,97.7088755,,False,0.625,0.4094,0.2559,Low,80
+Eslite Garment,1,13/06/2024,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,eslite garment,,,,,,,,0.625,0.4094,0.2559,Low,81
+DAGON TALENT GARMENT LIMITED,1,14/05/2025,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,dagon talent garment limited,MM20211687R49YR,DAGON TALENT GARMENT LIMITED,"Plot No.17, Myay Taing Block No.143-1, Yadanar Bon Road, Kyansitthar Yeik Mon Industrial Zone, South Dagon Township, Yangon Region, Myanmar",16.8801971,96.2491641,,False,0.625,0.4094,0.2559,Low,82
+Yangon Young Clothig Ltd,1,20/06/2025,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,yangon young clothig ltd,MM2025087WPAE62,Yangon Young Clothig Ltd,"Plot No.126, MyayTaingBlock(51), Thardukan Ind'l Zone, Shwe Pyi Thar Tsp, Yangon",16.9845706,96.0922922,,False,0.625,0.4094,0.2559,Low,83
+"Amity (Myanmar) Lingerie Co., Ltd.",1,25/12/2025,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,"amity (myanmar) lingerie co., ltd.",MM20200764DT9PN,"Amity (Myanmar) Lingerie Co., Ltd.","Plot No. 53 Kwin No. 1190 (Kha), East of Gonminn Inn, Industry Group 1, Inndagaw Industrial Complex, Inndagaw Village Tract, Bago Township",17.1978587,96.3847291,,False,0.625,0.4094,0.2559,Low,84
+E ENTERPRISES LTD. (MYANMAR) - PAKOKKU,1,06/05/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,e enterprises ltd. (myanmar) - pakokku,MM2025093E4XMBX,E ENTERPRISES LTD. (MYANMAR) - PAKOKKU,"No. 154, Lane -2, Pakokku Industrial Zone, Pakokku Township",21.3394161,95.0702794,,False,0.625,0.4094,0.2559,Low,85
+Full Win Safety,1,31/08/2023,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,full win safety,,,,,,,,0.625,0.4094,0.2559,Low,86
+Jiashihao (Myanmar),1,05/01/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,jiashihao (myanmar),,,,,,,,0.625,0.4094,0.2559,Low,87
+Kaixi Myanmar Fashion,1,25/01/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,kaixi myanmar fashion,,,,,,,,0.625,0.4094,0.2559,Low,88
+Myanmar Best Fortune Garment,1,02/07/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,myanmar best fortune garment,,,,,,,,0.625,0.4094,0.2559,Low,89
+Myanmar Jiale 1 Fashion Company Limited,1,18/11/2024,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,myanmar jiale 1 fashion company limited,MM2019083RCCK6T,Myanmar Jiale 1 Fashion Company Limited,"Min Aye Yar Road, 13, Shwe Than Lwin Industrial Zone  Hlaing Tharyar Township Yangon Yangon",16.8651794,96.033996,964|964|1001-1500|1001-1500|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000|501-1000,False,0.625,0.4094,0.2559,Low,90
+MEF International Company Limited.,2,24/12/2025,0.5,0.0,0.5,0.0,1.0,1.0,1.0,0.0,mef international company limited.,MM20250872FVRE4,MEF International Company Limited.,"No.C 10-11, Industrial Zone, Laputta Township Ayeyarwaddy Region, Laputta, Ayeyarwaddy",16.149328,94.7562159,,False,0.4688,0.5235,0.2454,Low,91
+S.H.UNITED COMPANY LIMITED,1,13/07/2025,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,s.h.united company limited,MM201910780NN99,S.H.UNITED COMPANY LIMITED,"No(72/73/104/105),Matkhayar Minthargyi Maung Pyo Road,, 0, Yangon, Myanmar",16.8497944,96.0743979,,False,0.5625,0.4094,0.2303,Low,92
+EO Yangon Co.Ltd,1,29/07/2025,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,eo yangon co.ltd,MM2025087KZ1T54,EO Yangon Co.Ltd,"Yangon-Pyay Road, Pyinmabin Industrial Zone, Mingaladon Township, Yangon.",16.9995776,96.1301227,,False,0.5625,0.4094,0.2303,Low,93
+New Fubon,1,31/12/2024,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,new fubon,,,,,,,,0.5625,0.4094,0.2303,Low,94
+Mountain Tree,1,21/03/2024,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,mountain tree,,,,,,,,0.5625,0.4094,0.2303,Low,95
+Myanmar Chaofa,1,18/01/2024,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,myanmar chaofa,,,,,,,,0.5625,0.4094,0.2303,Low,96
+Yoyika Garment,1,10/05/2025,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,yoyika garment,,,,,,,,0.5625,0.4094,0.2303,Low,97
+Toe Tet Garment,1,16/12/2023,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,toe tet garment,,,,,,,,0.5625,0.4094,0.2303,Low,98
+"Reton Industrial Co., Ltd",3,24/12/2025,0.0,0.3333333333333333,0.6666666666666666,0.0,1.0,0.3333333333333333,0.6666666666666666,0.3333333333333333,"reton industrial co., ltd",MM20250871SK8S0,"Reton Industrial Co., Ltd","No.18, Myay Taing Block 21, Mya Sein Yaung Industrial Zone, Hlaing Tharyar Tsp, Yangon",16.8792057,96.0018289,,False,0.3958,0.5809,0.2299,Low,99
+Dagon Seikkan Garment Industry Company Limited.,2,31/12/2024,0.0,0.5,0.5,0.5,1.0,1.0,0.0,0.5,dagon seikkan garment industry company limited.,MM2025087C13VXT,Dagon Seikkan Garment Industry Company Limited.,"No (137-B), Matkhayar Min Thargyi Street, Dagon Seikkan Industrial Zone (1), Dagon Seikkan Township, Yangon.",16.8344399,96.2806526,,False,0.4375,0.5235,0.229,Low,100
+Golden Fashion,2,25/12/2025,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,golden fashion,,,,,,,,0.4375,0.5235,0.229,Low,101
+"Dong Yu Garment Co., Ltd.",2,25/03/2025,0.0,0.5,0.5,0.0,1.0,0.0,1.0,0.5,"dong yu garment co., ltd.",MM2020043AVRFSA,"Dong Yu Garment Co., Ltd.","Plot No.459, Myay Taing Block No.25, Shwe Lin Ban Industrial Zone, Hlaingtharya Township, Yangon Region, Myanmar",16.90796,96.06499,,False,0.4375,0.5235,0.229,Low,102
+"International Gate Way Co., Ltd",1,23/09/2023,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,"international gate way co., ltd",MM2025087DPYSN1,"International Gate Way Co., Ltd","19, Kyaik Wine Pagoda Road, 8 miles, Myaing Hay Wun Housing, Mayangone, Yangon",16.8648884,96.1406483,,False,0.5,0.4094,0.2047,Low,103
+Myanmar Knitting Factory,1,22/12/2025,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,myanmar knitting factory,,,,,,,,0.5,0.4094,0.2047,Low,104
+Jiangsu Soho,1,17/03/2026,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,jiangsu soho,,,,,,,,0.5,0.4094,0.2047,Low,105
+Myanmar Huasheng Golden,1,18/07/2024,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,myanmar huasheng golden,,,,,,,,0.5,0.4094,0.2047,Low,106
+"Bawga Mandaing Mfg Co., Ltd",1,25/12/2025,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,"bawga mandaing mfg co., ltd",MM2025087GWV9XZ,"Bawga Mandaing Mfg Co., Ltd","42/201, Kanaung Min Thar Gyi Street, Industrial Zone (1), Shwepyitha, Yangon",16.9188097,96.083001,,False,0.5,0.4094,0.2047,Low,107
+"XINDA HOME TEXTILE (MYANMAR) CO., LTD.",1,14/10/2023,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,"xinda home textile (myanmar) co., ltd.",MM202306144AHR3,"XINDA HOME TEXTILE (MYANMAR) CO., LTD.","Plot No. 140 (A) (B) (D) (F), Myay Taing Block No. 42 Sethmu,Shwe Pyi Thar Township.",16.9753379,96.0785104,,False,0.5,0.4094,0.2047,Low,108
+"Nadi Pacific Apparel Co., Ltd",1,17/02/2024,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,"nadi pacific apparel co., ltd",MM2025087XS30R3,"Nadi Pacific Apparel Co., Ltd","No.107 Twin Thin Tike Wun U Tun Nyo St., Industrial Zone (2), Hlaingtharya, Yangon",16.9013508,96.2369004,,False,0.5,0.4094,0.2047,Low,109
+Myanmar I-Tex Garment,1,14/03/2024,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,myanmar i-tex garment,,,,,,,,0.5,0.4094,0.2047,Low,110
+CostecInternational Co. Ltd.,2,23/01/2026,0.0,0.0,0.0,1.0,1.0,1.0,0.5,0.0,costecinternational co. ltd.,MM2019221GMSKC7,CostecInternational Co. Ltd.,"Plot No. 34 - 36 Myataung Wun Gyi U Hmo Street, Industrial Zone - 3, Shwe Pyi Thar Township, Yangon",16.93258,96.08131,,False,0.375,0.5235,0.1963,Low,111
+Myanmar Fortress Wealth,3,28/05/2025,0.3333333333333333,0.0,0.0,0.0,1.0,0.0,1.0,0.0,myanmar fortress wealth,,,,,,,,0.3125,0.5809,0.1815,Low,112
+Sheng Da Ming Apparel,2,12/02/2025,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.5,sheng da ming apparel,,,,,,,,0.3438,0.5235,0.18,Low,113
+Li Da Garment,2,28/12/2023,0.0,0.5,0.0,0.0,1.0,0.0,1.0,0.0,li da garment,,,,,,,,0.3438,0.5235,0.18,Low,114
+"Win & Win Co., Ltd",1,27/12/2025,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,"win & win co., ltd",MM2025087S2EY6Z,"Win & Win Co., Ltd","6, Pyay Road, Ward (10), Hlaing, Yangon",16.8403781,96.1349145,,False,0.4375,0.4094,0.1791,Low,115
+"Delta Mate Myanmar Co.,Ltd",1,04/01/2024,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,"delta mate myanmar co.,ltd",MM2023002F40SEX,"Delta Mate Myanmar Co.,Ltd","Holding No - 1 / Ka, Plot No.7, 21,22,23,28,29. Block No.998A, Ma Kyi Kan Kwin, Ka Li Htaw (East) Village Tract, Hlegu Township",17.1526379,96.2429045,,False,0.4375,0.4094,0.1791,Low,116
+Cheung Hing Myanmar,2,30/11/2023,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,cheung hing myanmar,,,,,,,,0.3125,0.5235,0.1636,Low,117
+Lian Fa (Myanmar),2,18/02/2025,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,lian fa (myanmar),,,,,,,,0.3125,0.5235,0.1636,Low,118
+Tong Ying HK (Garment),1,23/10/2023,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,tong ying hk (garment),,,,,,,,0.375,0.4094,0.1535,Low,119
+General Textile,1,14/02/2026,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,general textile,,,,,,,,0.375,0.4094,0.1535,Low,120
+Wang Tat Poly-bags Mfg Co,1,03/12/2024,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,wang tat poly-bags mfg co,MM2022103F2FFVE,Wang Tat Poly-bags Mfg Co, No 125 Htun Nyo Road Shwepyithar Industrial Area Zone (3) Shwepyithar Township Yangon,16.969617,96.0732146,,False,0.3125,0.4094,0.1279,Low,121
+Hosheng Myanmar Garment Factory,1,13/07/2025,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,hosheng myanmar garment factory,,,,,,,,0.3125,0.4094,0.1279,Low,122
+Diamond Sea Sar Garment,1,18/01/2024,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,diamond sea sar garment,,,,,,,,0.3125,0.4094,0.1279,Low,123
+"Myanmar Handsome Garments Co., Ltd.",1,10/03/2026,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,"myanmar handsome garments co., ltd.",MM20200430EGZBD,"Myanmar Handsome Garments Co., Ltd.","No.167 Pantinwun U Shwe Bin Street, East Dagon Industrial Zone, Dagon Myo Thit (East) Township, 11451, Yangon, Yangon, Myanmar",16.9057748,96.2457891,,False,0.3125,0.4094,0.1279,Low,124
+"Rainbowtex (Myanmar) Garments Co., Ltd.",1,30/11/2023,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,"rainbowtex (myanmar) garments co., ltd.",MM2020325HNRCCY,"Rainbowtex (Myanmar) Garments Co., Ltd.","Plot No-75, Myay Taing Block No-49, War Ta Yar Industrial Zone, Shwe Pyi Thar Township, Yangon, , ",16.9884539,96.0510584,971|971,False,0.3125,0.4094,0.1279,Low,125
+Golden Propitious (Myanmar) Garment,1,17/09/2024,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,golden propitious (myanmar) garment,,,,,,,,0.3125,0.4094,0.1279,Low,126
+Aqua Shoe Factory,1,17/11/2024,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,aqua shoe factory,,,,,,,,0.25,0.4094,0.1024,Low,127
+GTIG HUBO,4,24/12/2025,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,gtig hubo,,,,,,,,0.125,0.6168,0.0771,Low,128
+ZYZ Apparel,1,09/02/2024,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,zyz apparel,,,,,,,,0.1875,0.4094,0.0768,Low,129
+GTIG Guohua Glory Garment,2,28/05/2025,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,gtig guohua glory garment,,,,,,,,0.125,0.5235,0.0654,Low,130
+Textile Palace,1,07/11/2024,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,textile palace,,,,,,,,0.125,0.4094,0.0512,Low,131
+Myanmar Shoe Dynasty,1,26/08/2023,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,myanmar shoe dynasty,,,,,,,,0.0625,0.4094,0.0256,Low,132
+Zhejiang Tongli Clothing,1,07/05/2025,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,zhejiang tongli clothing,,,,,,,,0.0625,0.4094,0.0256,Low,133

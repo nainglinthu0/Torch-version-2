@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+scikit-learn
+gensim
+spacy
+thefuzz
+python-Levenshtein
+joblib
