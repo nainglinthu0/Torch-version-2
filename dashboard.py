@@ -11,6 +11,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 import folium
 from streamlit_folium import st_folium
+import pandas as pd
+
+style_fn = display.style.map if hasattr(display.style, "map") else display.style.applymap
+style_fn(color_band, subset=["Risk Band"])
 
 # ----------------------------------------------------------------
 # Config
