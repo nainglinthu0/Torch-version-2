@@ -11,10 +11,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import folium
 from streamlit_folium import st_folium
-import pandas as pd
-
-style_fn = display.style.map if hasattr(display.style, "map") else display.style.applymap
-style_fn(color_band, subset=["Risk Band"])
 
 # ----------------------------------------------------------------
 # Config
@@ -258,13 +254,13 @@ elif page == "Risk Ranking":
     })
 
     def color_band(val):
-        colors = {"High": "background-color:#ffd7d7", 
+        colors = {"High": "background-color:#ffd7d7",
                   "Medium": "background-color:#fff3cd",
                   "Low": "background-color:#d4edda"}
         return colors.get(val, "")
 
     st.dataframe(
-        display.style.applymap(color_band, subset=["Risk Band"]),
+        display.style.map(color_band, subset=["Risk Band"]),  # applymap → map (pandas ≥ 2.1)
         use_container_width=True,
         height=500
     )
@@ -291,41 +287,12 @@ elif page == "Factory Profile":
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Rank", f"#{int(row['rank'])} / {len(factories)}")
     col2.metric("Composite Score", f"{row['composite_score']:.4f}")
-    band_color = RISK_COLORS.get(row["risk_band"], "gray")
     col3.metric("Risk Band", row["risk_band"])
     col4.metric("Articles", int(row["article_count"]))
 
     st.divider()
 
-    # Risk dimension radar chart
-    st.subheader("Risk Dimension Breakdown")
-    st.caption("Based on Better Work CAT clusters (ILO & IFC, 2025)")
-
-    dims   = DIMENSIONS
-    labels = [DIM_LABELS[d] for d in dims]
-    values = [row.get(f"prevalence_{d}", 0) for d in dims]
-    values_closed = values + [values[0]]
-    labels_closed = labels + [labels[0]]
-
-    fig_radar = go.Figure(go.Scatterpolar(
-        r=values_closed,
-        theta=labels_closed,
-        fill="toself",
-        fillcolor=f"rgba(214, 39, 40, 0.2)" if row["risk_band"] == "High"
-                  else "rgba(255, 127, 14, 0.2)" if row["risk_band"] == "Medium"
-                  else "rgba(44, 160, 44, 0.2)",
-        line=dict(color=band_color),
-        name=selected
-    ))
-    fig_radar.update_layout(
-        polar=dict(radialaxis=dict(visible=True, range=[0, 1])),
-        showlegend=False,
-        height=420
-    )
-    st.plotly_chart(fig_radar, use_container_width=True)
-
-    # OSH metadata
-    st.divider()
+    # Factory metadata
     st.subheader("Factory Metadata")
     meta_cols = ["address", "number_of_workers", "is_closed", "os_id"]
     meta = {c: row.get(c, "N/A") for c in meta_cols}
