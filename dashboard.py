@@ -8,6 +8,7 @@ from streamlit_folium import st_folium
 
 st.set_page_config(
     page_title="Torch — Myanmar Apparel Risk Index",
+    page_icon = "torch_logo.png",
     layout="wide"
 )
 
@@ -70,7 +71,7 @@ st.sidebar.caption(
 
 
 if page == "Overview":
-    st.title("🔦 Torch: Myanmar Apparel Supply Chain Risk Index")
+    st.title("Torch: Myanmar Apparel Supply Chain Risk Index")
     st.markdown(
         "Torch uses text mining and machine learning to generate factory-level labour "
         "risk signals from publicly available complaint narratives, benchmarked against "
