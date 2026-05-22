@@ -12,6 +12,39 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown(
+    """
+    <style>
+    /* Main body background and text color */
+    .stApp {
+        background-color: #000000 !important;
+        color: #ffffff !important;
+    }
+    
+    /* Sidebar styling */
+    [data-testid="stSidebar"] {
+        background-color: #111111 !important;
+        color: #ffffff !important;
+    }
+    
+    /* Text inputs, selectboxes, and labels */
+    div[data-baseweb="select"] > div {
+        background-color: #222222 !important;
+        color: #ffffff !important;
+    }
+    label, p, h1, h2, h3, span, li {
+        color: #ffffff !important;
+    }
+    
+    /* Expander text handling */
+    .stContentBlock {
+        color: #ffffff !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 RISK_COLORS = {"High": "#d62728", "Medium": "#ff7f0e", "Low": "#2ca02c"}
 
 DIMENSIONS = [
@@ -52,7 +85,7 @@ articles["factory_ref"] = articles["osh_factory_matched"].fillna(
     articles["bhrrc_factory_matched"]
 )
 
-# Updated to use your local logo file
+# You can update "torch_logo.png" here to your actual path whenever you are ready
 st.sidebar.image("torch_logo.png", width=60)
 st.sidebar.title("Torch")
 st.sidebar.caption("Factory-Level Risk Index\nMyanmar Apparel Supply Chains")
@@ -98,7 +131,12 @@ if page == "Overview":
             color=band_counts.index, color_discrete_map=RISK_COLORS,
             labels={"x": "Risk Band", "y": "Number of Factories"},
         )
-        fig_band.update_layout(showlegend=False)
+        fig_band.update_layout(
+            template="plotly_dark", # Force Plotly charts into dark mode layout
+            showlegend=False,
+            paper_bgcolor='rgba(0,0,0,0)',
+            plot_bgcolor='rgba(0,0,0,0)'
+        )
         st.plotly_chart(fig_band, use_container_width=True)
 
     with col_b:
@@ -113,7 +151,12 @@ if page == "Overview":
             labels={"x": "Average Prevalence", "y": ""},
             color=avg_prev.values, color_continuous_scale="OrRd",
         )
-        fig_dim.update_layout(coloraxis_showscale=False)
+        fig_dim.update_layout(
+            template="plotly_dark",
+            coloraxis_showscale=False,
+            paper_bgcolor='rgba(0,0,0,0)',
+            plot_bgcolor='rgba(0,0,0,0)'
+        )
         st.plotly_chart(fig_dim, use_container_width=True)
 
     st.divider()
@@ -129,6 +172,11 @@ if page == "Overview":
     by_month.columns = ["Month", "Articles"]
     fig_time = px.line(by_month, x="Month", y="Articles",
                        labels={"Month": "", "Articles": "Number of Articles"})
+    fig_time.update_layout(
+        template="plotly_dark",
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)'
+    )
     st.plotly_chart(fig_time, use_container_width=True)
 
     st.info(DISCLAIMER)
@@ -158,7 +206,8 @@ elif page == "Risk Map":
     ]
     st.caption(f"Showing {len(map_data)} factories")
 
-    m = folium.Map(location=[19.5, 96.5], zoom_start=6, tiles="CartoDB positron")
+    # Switched map tiles to "CartoDB dark_matter" to match the black background aesthetics
+    m = folium.Map(location=[19.5, 96.5], zoom_start=6, tiles="CartoDB dark_matter")
     for _, row in map_data.iterrows():
         color  = RISK_COLORS.get(row["risk_band"], "gray")
         radius = max(5, row["composite_score"] * 20)
@@ -213,10 +262,11 @@ elif page == "Risk Ranking":
         "confidence":      "Confidence",
     })
 
+    # Dark-mode readable conditional highlight backgrounds
     band_bg = {
-        "High":   "background-color:#ffd7d7",
-        "Medium": "background-color:#fff3cd",
-        "Low":    "background-color:#d4edda",
+        "High":   "background-color:#5c1d1d; color: #ffffff;",
+        "Medium": "background-color:#5c471d; color: #ffffff;",
+        "Low":    "background-color:#1d5c2c; color: #ffffff;",
     }
 
     def color_band(val):
@@ -264,7 +314,12 @@ elif page == "Factory Profile":
         labels={"y": ""},
         range_x=[0, 1],
     )
-    fig_radar.update_layout(coloraxis_showscale=False)
+    fig_radar.update_layout(
+        template="plotly_dark",
+        coloraxis_showscale=False,
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)'
+    )
     st.plotly_chart(fig_radar, use_container_width=True)
 
     st.divider()
