@@ -8,7 +8,6 @@ from streamlit_folium import st_folium
 
 st.set_page_config(
     page_title="Torch — Myanmar Apparel Risk Index",
-    page_icon="🔦",
     layout="wide"
 )
 
